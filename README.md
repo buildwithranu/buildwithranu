@@ -1,23 +1,5 @@
-<h1 align="left">Hey 👋 Welcome!</h1>
+![Header](./benner.png)
 
-###
-
-<h4 align="left">My Name is Ranu Pirmansyah</h4>
-
-###
-
-<p align="left">💻 Web Developer<br>🔗 Data Integration Engineer</p>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/ranufrmn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="31" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ranu-pirmansyah-290129175?originalSubdomain=id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="31" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
@@ -86,3 +68,14 @@
 </div>
 
 ###
+<h4 align="left">📢 Follow Me!</h4>
+<div align="left">
+    <a href="https://www.instagram.com/ranufrmn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="31" alt="instagram logo"  />
+  </a>
+    <a href="https://www.linkedin.com/in/ranu-pirmansyah-290129175?originalSubdomain=id" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="31" alt="linkedin logo"  />
+  </a>
+
+
+</div>
